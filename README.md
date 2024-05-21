@@ -1,1 +1,2 @@
-# e-book-Logica-de-programa-o-Bootcamp-santander-
+O e-book "Lógica de Programação para Iniciantes: Domine a Arte de Pensar como um Computador", convida os leitores a embarcarem em uma jornada de aprendizagem sobre os conceitos básicos da lógica de programação. O texto é apresentado de forma acessível, utilizando analogias épicas criativas e exemplos práticos para facilitar a compreensão dos temas. Este e-book é um projeto do Bootcamp Santander 2024- Fundamentos de IA para Devs proposto pelo Tech Education Felipe Silva Aguiar. Foi estruturado com apoio da IA.
+Então, estão prontos para essa aventura? Vamos começar a nossa jornada épica e dominar a arte de pensar como um computador! Boa sorte, bravos aprendizes!
